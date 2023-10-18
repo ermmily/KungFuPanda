@@ -1,0 +1,29 @@
+html {
+  background-image: url(img/kungfupandabackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #b9d4ef;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  color: #d71920;
+  background-color: #f0bf05;
+  border: #d71920 solid 5px;
+  border-radius: 10px;
+  padding: 10px;
+}
+a:hover {
+  color: #f0bf05;
+  background-color: #d71920;
+  border: #f0bf05 solid 5px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.img {
+  padding: 100px;
+  margin: auto;
+}
